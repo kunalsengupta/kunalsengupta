@@ -12,7 +12,7 @@ Full-stack AI adaptive learning platform for Grade 8–12 students
 across all major Indian boards (CBSE, ICSE, IGCSE, IB, State) 
 and undergraduate courses. Built and operated solo — end to end.
 
-**Live:** https://172.235.28.241.nip.io  
+**Live:** https://appx.kunalbuilds.dev 
 **Private repo** — available on request
 
 **Stack:**
