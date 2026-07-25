@@ -1,13 +1,13 @@
 # Kunal Sengupta
 
 **Backend & AI Engineer** · Python · FastAPI · RAG Pipelines · Kubernetes  
-📍 Bengaluru, India · 🌍 Open to Remote · Available immediately
+📍 Bengaluru, India · 🌍 Open to New Oppertunities · Available immediately
 
 ---
 
 ## What I'm Building
 
-### 🎓 EdTech AI Learning Platform — *Live in Production*
+### 🎓 EdTech AI Learning Platform: *Live in Production*
 Full-stack AI adaptive learning platform for Grade 8–12 students 
 across all major Indian boards (CBSE, ICSE, IGCSE, IB, State) 
 and undergraduate courses. Built and operated solo — end to end.
@@ -28,7 +28,7 @@ and undergraduate courses. Built and operated solo — end to end.
 
 ---
 
-### 🛡️ SmartSchema — *CI-Native PostgreSQL Migration Guardrail*
+### 🛡️ SmartSchema: *CI-Native PostgreSQL Migration Guardrail*
 GitHub Action that catches dangerous PostgreSQL migrations 
 before they reach production — using AST analysis, not regex.
 
@@ -81,7 +81,7 @@ Grafana · Prometheus · Sentry
 
 - 🚀 Shipping the EdTech platform to real students
 - 🔧 Actively developing SmartSchema
-- 👀 Open to remote backend/AI engineering roles
+- 👀 Open to backend/AI engineering roles
 
 ---
 
